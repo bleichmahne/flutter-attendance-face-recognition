@@ -1,0 +1,145 @@
+{
+  "@@locale": "en",
+  "appTitle": "Attendance Tracker",
+  "home": "Home",
+  "register": "Register",
+  "camera": "Camera",
+  "settings": "Settings",
+  "settingsTitle": "Settings",
+  "searchUserByUuid": "Search user by UUID",
+  "userImageRecognition": "User image recognition",
+  "userImageRecognitionSubtitle": "3 photos, club, voucher",
+  "logout": "Logout",
+  "logoutConfirmTitle": "Logout",
+  "logoutConfirmMessage": "Are you sure you want to logout?",
+  "cancel": "Cancel",
+  "changeLanguage": "Change language",
+  "language": "Language",
+  "english": "English",
+  "russian": "Russian",
+  "clubsAndReportCards": "Clubs & Report Cards",
+  "clubs": "Clubs",
+  "reportCards": "Report Cards",
+  "all": "All",
+  "noClubsAvailable": "No clubs available",
+  "noReportCards": "No report cards",
+  "noDataAvailable": "No data available",
+  "clubsAndReportCardsEmptyHint": "Clubs and report cards will appear here",
+  "retry": "Retry",
+  "take3PicturesOfUser": "Take 3 pictures of user",
+  "take3PhotosInSequence": "Take 3 photos in sequence",
+  "photoNOf3": "Photo {n} of 3...",
+  "@photoNOf3": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "orTapBoxToTakeOrReplace": "Or tap a box to take or replace that photo",
+  "photoN": "Photo {n}",
+  "@photoN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "selectClub": "Select club",
+  "chooseClub": "Choose club",
+  "voucherNumber": "Voucher number",
+  "enterVoucherNumber": "Enter voucher number",
+  "clearImages": "Clear images",
+  "submit": "Submit",
+  "userRegisteredFor": "User registered: {voucher} for {clubName}",
+  "@userRegisteredFor": {
+    "placeholders": {
+      "voucher": {
+        "type": "String"
+      },
+      "clubName": {
+        "type": "String"
+      }
+    }
+  },
+  "enterUserUUID": "Enter user UUID",
+  "signInToContinue": "Sign in to continue",
+  "username": "Username",
+  "enterUsername": "Enter your username",
+  "pleaseEnterUsername": "Please enter your username",
+  "password": "Password",
+  "enterPassword": "Enter your password",
+  "pleaseEnterPassword": "Please enter your password",
+  "signIn": "Sign In",
+  "loginFailed": "Login Failed",
+  "kidsInClub": "Kids in club",
+  "noKidsInClub": "No kids in this club",
+  "age": "Age",
+  "useThisPhoto": "Use this photo",
+  "retake": "Retake",
+  "takeNext": "Take next",
+  "done": "Done",
+  "present": "Present",
+  "missing": "Missing",
+  "startCamera": "Start camera",
+  "attendanceRecorded": "Attendance recorded",
+  "finishSession": "Finish session",
+  "summary": "Summary",
+  "recognizing": "Recognize face",
+  "checkAttendanceFor": "Check attendance for {name}",
+  "@checkAttendanceFor": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "takePhotoToRecognize": "Take a photo to recognize this student",
+  "notRecognized": "Not recognized",
+  "studentPresent": "Student present",
+  "reset": "Reset",
+  "organizations": "Organizations",
+  "noOrganizations": "No organizations available",
+  "courses": "Courses",
+  "noCourses": "No courses available",
+  "classes": "Classes",
+  "noClasses": "No classes available",
+  "photoFront": "Front",
+  "photoLeft": "Left 30\u00b0",
+  "photoRight": "Right 30\u00b0",
+  "photoFrontHint": "Look straight at the camera",
+  "photoLeftHint": "Turn head left ~30\u00b0",
+  "photoRightHint": "Turn head right ~30\u00b0",
+  "photoTips": "Good lighting, face fully visible, neutral background, no glasses if possible",
+  "guidedPhotoCapture": "Guided photo capture",
+  "guidedPhotoSubtitle": "Auto-captures when pose is held for 1 second",
+  "holdSteady": "Hold steady...",
+  "photoCaptured": "Photo captured!",
+  "faceNotDetected": "Face not detected",
+  "wrongPose": "Adjust your pose",
+  "allPhotosCaptured": "All 3 photos captured",
+  "nOfThreePhotos": "{n} of 3 photos",
+  "@nOfThreePhotos": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "updatePhotos": "Update photos",
+  "updatePhotosFor": "Update photos for {name}",
+  "@updatePhotosFor": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "photosUpdated": "Photos updated successfully",
+  "photosRejected": "Photo update rejected: identity mismatch",
+  "noPhotosRegistered": "No photos registered",
+  "takePhoto": "Take photo",
+  "recognizeFace": "Recognize face",
+  "attendanceHistory": "Attendance history",
+  "noAttendanceHistory": "No attendance history",
+  "recognitionHistory": "Recognition history",
+  "noRecognitionHistory": "No recognition history",
+  "recognized": "Recognized",
+  "confidence": "Confidence"
+}
